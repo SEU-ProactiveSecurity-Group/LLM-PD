@@ -1,0 +1,7 @@
+output
+txt
+csv
+data
+__pycache__
+.env
+proxy.sh
