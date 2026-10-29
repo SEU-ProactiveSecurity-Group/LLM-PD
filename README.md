@@ -13,11 +13,12 @@ Welcome to the repository for LLM-PD," a research project aimed at improving clo
 ## Citation
 
 ```
-@article{zhou2024toward,
-  title={Toward Intelligent and Secure Cloud: Large Language Model Empowered Proactive Defense},
-  author={Zhou, Yuyang and Cheng, Guang and Du, Kang and Chen, Zihan},
-  journal={arXiv preprint arXiv:2412.21051},
-  year={2024}
+@article{zhou2026toward,
+  title={Toward intelligent and secure cloud: Large language model empowered proactive defense},
+  author={Zhou, Yuyang and Cheng, Guang and Du, Kang and Chen, Zihan and Zhao, Yuyu},
+  journal={IEEE Communications Magazine},
+  year={2026},
+  publisher={IEEE}
 }
 ```
 
